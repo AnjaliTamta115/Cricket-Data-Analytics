@@ -71,12 +71,5 @@ The final outcome of this project is the formation of a combined team of 11 play
 
 ### By focusing specifically on the Womens Premier League (WPL), my project aims to contribute to the growth and development of women's cricket. The insights derived from this project can help teams, cricket boards, and stakeholders in the women's cricket ecosystem to harness the power of data and drive positive changes in the sport.
 
-## Contributors
 
-- [Adnan Sattikar](https://github.com/AdSattikar)
 
-## License
-
-This project is licensed under the [GNU General Public License v3.0](https://github.com/AdSattikar/WPL-Dream-Team-Prediction/blob/master/LICENSE). 
-# Cricket-Data-Analytics
-# Cricket-Data-Analytics
