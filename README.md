@@ -79,3 +79,4 @@ The final outcome of this project is the formation of a combined team of 11 play
 
 This project is licensed under the [GNU General Public License v3.0](https://github.com/AdSattikar/WPL-Dream-Team-Prediction/blob/master/LICENSE). 
 # Cricket-Data-Analytics
+# Cricket-Data-Analytics
